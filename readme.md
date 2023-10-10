@@ -3,7 +3,7 @@
 CEO Salary Linear Regression
 
 - Some Data cleaning is performed: outliers and null values removed
-- Some Data is generated, non-linear transformations to search for more
+- Some Data is generated, non-linear transformations are applied to search for more insights
 - An EDA is performed to search for features. There is a short explination for each variable, there are some numerical and some categorical variables.
 - Some models are created based on the EDA to compare their performances
 - Train-test split is used to evaluate models
